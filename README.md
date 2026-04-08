@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎉 Congratulations PlaxoGhouse! 🎉
+# 🎉 Congratulations Ghouse Mohiddin! 🎉
 
 <img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
